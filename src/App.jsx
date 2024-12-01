@@ -89,7 +89,7 @@ export default function App() {
             className="bg-white rounded-lg p-6 shadow-xl flex flex-col items-center justify-center"
           >
             <img
-              src="/placeholder.svg"
+              src="/devika.jpg" // Image reference from the public directory
               width={150}
               height={150}
               alt="The Mystery"
